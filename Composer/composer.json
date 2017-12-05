@@ -1,0 +1,9 @@
+{
+    "name": "joaopaulo/composer",
+    "description": "Estudando PHP7 e composer",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
